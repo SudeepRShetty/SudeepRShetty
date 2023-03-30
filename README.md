@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SudeepRShetty
-- 👀 I’m interested in Artifical Intelligence And Machine Learning, Deep Learning , Neural Network,Flutter
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Artifical Intelligence And Machine Learning,Mern Stack , Data analysis.
+- 🌱 I’m currently learning Mern Stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
